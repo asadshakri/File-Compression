@@ -1,3 +1,4 @@
 # File-Compression
-
-REDUCES THE SIZE OF THE TEXT FILE USING HUFFMAN CODING
+-Convert the characters into bits and reduces the size of text file
+-Huffman Algorithms using linked list, binary tree and arrays
+-More frequency characters are replaced by less bits
